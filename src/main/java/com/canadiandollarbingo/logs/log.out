@@ -1,0 +1,88 @@
+2023-08-16 22:08:295 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-16 22:08:811 INFO  HomePage :27 - Mouse hover in game menu
+2023-08-16 22:08:732 INFO  HomePage :33 - Click on Bingo in game category
+2023-08-16 22:08:765 INFO  HomePage :27 - Getting text for Bingo page 
+2023-08-16 22:08:172 INFO  HomePage :34 - Click on paralay link
+2023-08-16 22:08:207 INFO  HomePage :40 - Getting text for Slot page 
+2023-08-17 16:08:884 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 16:08:05 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 17:08:314 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 17:08:153 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 17:08:866 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 17:08:295 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 17:08:268 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 17:08:956 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 17:08:684 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 17:08:439 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 17:08:09 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 17:08:825 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 17:08:393 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 17:08:180 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 17:08:228 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 17:08:871 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 18:08:133 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 18:08:496 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 18:08:555 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 18:08:307 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 18:08:336 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 18:08:888 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 18:08:260 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 18:08:454 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 18:08:296 INFO  HomePage :53 - Click on calculate your bonus in bonuses category
+2023-08-17 18:08:332 INFO  BonusesPage :21 - Getting text for bonus calculator page 
+2023-08-17 18:08:642 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 18:08:768 INFO  HomePage :35 - Mouse hover in game menu
+2023-08-17 18:08:98 INFO  HomePage :41 - Click on Bingo in game category
+2023-08-17 18:08:133 INFO  HomePage :27 - Getting text for Bingo page 
+2023-08-17 18:08:545 INFO  HomePage :34 - Click on paralay link
+2023-08-17 18:08:582 INFO  HomePage :40 - Getting text for Slot page 
+2023-08-17 19:08:19 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 19:08:689 INFO  HomePage :35 - Mouse hover in game menu
+2023-08-17 19:08:623 INFO  HomePage :41 - Click on Bingo in game category
+2023-08-17 19:08:660 INFO  HomePage :27 - Getting text for Bingo page 
+2023-08-17 19:08:85 INFO  HomePage :34 - Click on paralay link
+2023-08-17 19:08:117 INFO  HomePage :40 - Getting text for Slot page 
+2023-08-17 19:08:97 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 19:08:261 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 19:08:78 INFO  HomePage :53 - Click on calculate your bonus in bonuses category
+2023-08-17 19:08:108 INFO  BonusesPage :21 - Getting text for bonus calculator page 
+2023-08-17 20:08:367 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 20:08:64 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 20:08:633 INFO  BonusesPage :36 - Click on 'Throw back Thursday' link
+2023-08-17 20:08:681 INFO  BonusesPage :43 - Getting text for Throw Back Thursday 
+2023-08-17 21:08:372 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 21:08:180 INFO  HomePage :35 - Mouse hover in game menu
+2023-08-17 21:08:334 INFO  HomePage :41 - Click on Bingo in game category
+2023-08-17 21:08:389 INFO  HomePage :27 - Getting text for Bingo page 
+2023-08-17 21:08:966 INFO  HomePage :34 - Click on paralay link
+2023-08-17 21:08:09 INFO  HomePage :40 - Getting text for Slot page 
+2023-08-17 21:08:585 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 21:08:06 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 21:08:888 INFO  HomePage :53 - Click on calculate your bonus in bonuses category
+2023-08-17 21:08:933 INFO  BonusesPage :29 - Getting text for bonus calculator page 
+2023-08-17 21:08:538 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 21:08:501 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 21:08:73 INFO  BonusesPage :36 - Click on 'Throw back Thursday' link
+2023-08-17 21:08:115 INFO  BonusesPage :43 - Getting text for Throw Back Thursday 
+2023-08-17 21:08:98 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 21:08:141 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 21:08:722 INFO  BonusesPage :36 - Click on 'Throw back Thursday' link
+2023-08-17 21:08:763 INFO  BonusesPage :43 - Getting text for Throw Back Thursday 
+2023-08-17 21:08:134 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 21:08:958 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 21:08:833 INFO  HomePage :53 - Click on calculate your bonus in bonuses category
+2023-08-17 21:08:873 INFO  BonusesPage :29 - Getting text for bonus calculator page 
+2023-08-17 21:08:367 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 21:08:127 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-17 21:08:679 INFO  BonusesPage :36 - Click on 'Throw back Thursday' link
+2023-08-17 21:08:724 INFO  BonusesPage :43 - Getting text for Throw Back Thursday 
+2023-08-17 21:08:104 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-17 21:08:385 INFO  HomePage :35 - Mouse hover in game menu
+2023-08-17 21:08:464 INFO  HomePage :41 - Click on Bingo in game category
+2023-08-17 21:08:510 INFO  HomePage :27 - Getting text for Bingo page 
+2023-08-17 21:08:977 INFO  HomePage :34 - Click on paralay link
+2023-08-17 21:08:21 INFO  HomePage :40 - Getting text for Slot page 
+2023-08-18 13:08:188 INFO  ManageBrowser :29 - Chrome Browser Launch.......
+2023-08-18 13:08:324 INFO  HomePage :47 - Mouse hover in Bonuses menu
+2023-08-18 13:08:957 INFO  BonusesPage :36 - Click on 'Throw back Thursday' link
+2023-08-18 13:08:04 INFO  BonusesPage :43 - Getting text for Throw Back Thursday 
